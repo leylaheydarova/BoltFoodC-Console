@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\bin\Debug\net8.0\BoltFood.Core.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\bin\Debug\net8.0\BoltFood.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\bin\Debug\net8.0\BoltFood.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\refint\BoltFood.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\BoltFood.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Core\obj\Debug\net8.0\ref\BoltFood.Core.dll

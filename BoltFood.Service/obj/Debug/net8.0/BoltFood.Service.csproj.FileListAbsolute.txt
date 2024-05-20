@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Service.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Service.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Service.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Data.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Data.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\bin\Debug\net8.0\BoltFood.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.004B3F3B.Up2Date
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\refint\BoltFood.Service.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\BoltFood.Service.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Service\obj\Debug\net8.0\ref\BoltFood.Service.dll

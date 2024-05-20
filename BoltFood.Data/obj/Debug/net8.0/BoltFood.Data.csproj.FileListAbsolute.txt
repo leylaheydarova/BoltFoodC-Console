@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\bin\Debug\net8.0\BoltFood.Data.deps.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\bin\Debug\net8.0\BoltFood.Data.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\bin\Debug\net8.0\BoltFood.Data.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\bin\Debug\net8.0\BoltFood.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\bin\Debug\net8.0\BoltFood.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.F83A8088.Up2Date
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\refint\BoltFood.Data.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\BoltFood.Data.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\CSharp Pseudo Real Practice 09\BoltFood.App\BoltFood.Data\obj\Debug\net8.0\ref\BoltFood.Data.dll
